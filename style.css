@@ -1,0 +1,35 @@
+body{
+background-position: center;
+background-size: cover;
+}
+.heading
+{
+    font-family: 'Dancing Script', cursive;
+    border: 2px;
+    color:blue; 
+    width: 100%;
+    font-size: 30px;
+    margin-top: 0px;
+}
+#number_of_objects,#Status,#Start
+{
+    font-size: 18px; 
+    font-family: 'Dancing Script', cursive;
+}
+.copy_right_footer{
+ background-color: yellow;
+ color: green;
+ bottom: 0;
+ width: 100%;
+position: fixed;
+text-align: center;
+font-size: 15px;
+line-height: 3;
+}
+canvas{
+   border-radius: 18px;
+   box-shadow: 5px 5px 5px red; 
+   border:2px solid snow;
+   margin-top: 130px;
+ 
+}
